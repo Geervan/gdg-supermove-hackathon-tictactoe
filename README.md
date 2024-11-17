@@ -69,14 +69,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-const firebaseConfig = {
-  apiKey: "AIzaSyCLgdjOYa4zY9qodRxKrBFX5CVRgvaFPuM",
-  authDomain: "tictactoe-9cd9a.firebaseapp.com",
-  databaseURL: "https://tictactoe-9cd9a-default-rtdb.asia-southeast1.firebasedatabase.app",
-  projectId: "tictactoe-9cd9a",
-  storageBucket: "tictactoe-9cd9a.firebasestorage.app",
-  messagingSenderId: "420794615312",
-  appId: "1:420794615312:web:a55452677e03dc2e8f2c95",
-  measurementId: "G-G13YGHFT4J",
-  databaseURL : "https://tictactoe-9cd9a-default-rtdb.asia-southeast1.firebasedatabase.app/"
-};
